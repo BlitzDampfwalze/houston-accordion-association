@@ -21,7 +21,7 @@ function App() {
         <h3>Third Tuesday of the month at:</h3>
         <div>Pizza Inn, 1801 Mangum Rd, Houston, TX 77092</div>
         <p></p>
-        <p>more coming very soon...</p>
+        <p>website new... more coming soon...</p>
 
         {/* <a
           className="App-link"
