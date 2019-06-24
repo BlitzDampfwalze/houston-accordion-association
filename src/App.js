@@ -31,12 +31,12 @@ function App() {
             <div className="about-div-1">Founded in 1990, the association meets twice a month.</div>
 
             <div className="about-div">
-              <div>First Tuesday of every month at:</div>
+              <div>First Tuesday of every month, 6:30PM at:</div>
               <a className="bold" target="_blank" href="https://goo.gl/maps/SYB4cZu4ULj9sC86A">Son Nam Restaurant | 130 Gulfgate Mall</a>
             </div>
 
             <div className="about-div">
-              <div>Third Tuesday of every month at:</div>
+              <div>Third Tuesday of every month, 6:30PM at:</div>
               <a className="bold" target="_blank" href="https://goo.gl/maps/gm7UncQWkhSsFQbMA">Pizza Inn | 1801 Mangum Rd</a>
             </div>
 
@@ -47,7 +47,7 @@ function App() {
         </div>
       </section>
       <section id="footer">
-<footer>
+        <footer>
           <ul className="copyright">
             <li>&copy; Houston Accordion Association</li>
             <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
