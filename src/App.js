@@ -13,8 +13,8 @@ function App() {
         <header className="major">
           <h1>Houston Accordion Association</h1>
           <div className="info-background">
-          <p>Bring your accordion! </p>
-          <p>Play, listen, converse at our informal gathering of accordionist of all genres</p>
+          <p>Music starts at 6:30 PM.</p>
+          <p>Come and go as you please. Bring the family. Invite friends.</p>
           </div>
         </header>
         <div className="container">
@@ -47,13 +47,14 @@ function App() {
 
             <div className="about-div">
               <div className="title">Some of our members</div>
-              <img className="images" src={houston2} alt="members" />;
-              <img className="images" src={houston1} alt="members" />;
+              <img className="images" src={houston2} alt="members" />
+              <br />
+              <img className="images" src={houston1} alt="members" />
             </div>
 
 
           </div>
-          <div className="video"><iframe src="https://www.youtube.com/embed/FNPAzOmiA9Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe></div>
+          {/* <div className="video"><iframe src="https://www.youtube.com/embed/FNPAzOmiA9Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe></div> */}
           <p className="coming-soon">The website is new - more coming soon...</p>
         </div>
       </section>
