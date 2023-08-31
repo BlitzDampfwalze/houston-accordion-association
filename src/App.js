@@ -12,8 +12,10 @@ function App() {
       <section id="header">
         <header className="major">
           <h1>Houston Accordion Association</h1>
+          <div className="info-background">
           <p>Bring your accordion! </p>
           <p>Play, listen, converse at our informal gathering of accordionist of all genres</p>
+          </div>
         </header>
         <div className="container">
           <ul className="actions special">
@@ -29,13 +31,13 @@ function App() {
             <header className="major">
               <h2>About the Houston Accordion Association</h2>
             </header>
-            <div className="about-div-1">Founded in 1990, the association meets twice a month.</div>
+            <div className="about-div-1">Founded in 1990, the association meets every month:</div>
 
-            <div className="about-div">
+            {/* <div className="about-div">
               <div>First Tuesday of every month, 6:30PM-9:00PM</div>
               <a className="bold" target="_blank" href="https://goo.gl/maps/SYB4cZu4ULj9sC86A">Son Nam Restaurant | 130 Gulfgate Mall</a>
               <div className="subtext">Each accordionist may play up to <span className="span-style">five</span> pieces of music.</div>
-            </div>
+            </div> */}
 
             <div className="about-div">
               <div>Third Tuesday of every month, 6:30PM-9:00PM</div>
