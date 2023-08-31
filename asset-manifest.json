@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.9a4a18b8.chunk.css",
-    "main.js": "/static/js/main.1318ee46.chunk.js",
-    "main.js.map": "/static/js/main.1318ee46.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.7ad91dd1.chunk.js": "/static/js/2.7ad91dd1.chunk.js",
-    "static/js/2.7ad91dd1.chunk.js.map": "/static/js/2.7ad91dd1.chunk.js.map",
+    "main.css": "/static/css/main.9b903258.css",
+    "main.js": "/static/js/main.e27b58aa.js",
+    "static/media/HoustonAccordion1.jpg": "/static/media/HoustonAccordion1.6242221e6680fe09bfa0.jpg",
+    "static/media/HoustonAccordion2.jpg": "/static/media/HoustonAccordion2.de78dcff6efd1f39d25c.jpg",
     "index.html": "/index.html",
-    "precache-manifest.0487a5c108ef20367131f35fa169d847.js": "/precache-manifest.0487a5c108ef20367131f35fa169d847.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.9a4a18b8.chunk.css.map": "/static/css/main.9a4a18b8.chunk.css.map",
-    "static/media/HoustonAccordion1.jpg": "/static/media/HoustonAccordion1.9e912c96.jpg",
-    "static/media/HoustonAccordion2.jpg": "/static/media/HoustonAccordion2.a9ecaa09.jpg"
-  }
+    "main.9b903258.css.map": "/static/css/main.9b903258.css.map",
+    "main.e27b58aa.js.map": "/static/js/main.e27b58aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b903258.css",
+    "static/js/main.e27b58aa.js"
+  ]
 }
