@@ -6759,9 +6759,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"houston-accordion-association@workspace:.":
+"houstonaccordion@workspace:.":
   version: 0.0.0-use.local
-  resolution: "houston-accordion-association@workspace:."
+  resolution: "houstonaccordion@workspace:."
   dependencies:
     gh-pages: ^6.0.0
     react: ^16.13.0
