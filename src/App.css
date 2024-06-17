@@ -64,11 +64,20 @@
 
 .subtext {
   font-size: 0.8em;
+  margin-bottom: 50px;
 }
 
+/* src/App.css */
+
 .about-div {
-  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; /* To ensure items stack vertically */
+  text-align: center;
+  /* other existing styles */
 }
+
 
 .span-style {
   font-style: italic;
