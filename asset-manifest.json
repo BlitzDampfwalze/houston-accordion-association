@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.5519c599.css",
-    "main.js": "/static/js/main.587add83.js",
+    "main.css": "/static/css/main.80570ef2.css",
+    "main.js": "/static/js/main.bedb04f4.js",
     "static/media/HoustonAccordion1.jpg": "/static/media/HoustonAccordion1.6242221e6680fe09bfa0.jpg",
     "static/media/HoustonAccordion2.jpg": "/static/media/HoustonAccordion2.de78dcff6efd1f39d25c.jpg",
     "index.html": "/index.html",
-    "main.5519c599.css.map": "/static/css/main.5519c599.css.map",
-    "main.587add83.js.map": "/static/js/main.587add83.js.map"
+    "main.80570ef2.css.map": "/static/css/main.80570ef2.css.map",
+    "main.bedb04f4.js.map": "/static/js/main.bedb04f4.js.map"
   },
   "entrypoints": [
-    "static/css/main.5519c599.css",
-    "static/js/main.587add83.js"
+    "static/css/main.80570ef2.css",
+    "static/js/main.bedb04f4.js"
   ]
 }
